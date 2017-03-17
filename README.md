@@ -2,5 +2,7 @@
 
 This is just a simple node server, but it's the first one i have set up 
 and wanted to put it on github in case there are other things that
-I missed or could add to.
+I missed or could add to. This also works great as a training tool
+for more junior developers to learn.
+
 
